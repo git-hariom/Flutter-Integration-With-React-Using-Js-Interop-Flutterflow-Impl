@@ -1,0 +1,20 @@
+export '/backend/schema/util/schema_util.dart';
+
+export 'cust_communication_address_struct.dart';
+export 'customer_details_struct.dart';
+export 'dedupe_status_vehicle_dtls_struct.dart';
+export 'barcode_struct.dart';
+export 'barcode_list_reponse_struct.dart';
+export 'customer_struct.dart';
+export 'dedupe_status_response_body_struct.dart';
+export 'exsting_customer_struct.dart';
+export 'issue_tag_struct.dart';
+export 'permanent_address_struct.dart';
+export 'product_struct.dart';
+export 'product_list_response_struct.dart';
+export 'refresh_token_response_struct.dart';
+export 'selected_customer_details_struct.dart';
+export 'upi_pymt_status_struct.dart';
+export 'upi_tag_issue_struct.dart';
+export 'vehicle_struct.dart';
+export 'verify_aadhaar_resp_struct.dart';
